@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website!
 layout: page
-feature_image: "C:\Users\oadamic21\OneDrive - Joliet Catholic Academy\Data Science\LakeWaterLevelData"
+feature_image: "https://github.com/olivia1117/LakeWaterLevelData/blob/gh-pages/title_page_image.jpg"
 feature_text: |
   ## Lake Water Data from the Michigan-Huron Region
 ---
