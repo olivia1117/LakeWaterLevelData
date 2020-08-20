@@ -6,4 +6,8 @@ feature_text: |
   ## Lake Water Data from the Michigan-Huron Region
 ---
 
-There isn't much going on here yet, but watch this space
+##### This is a website dedicated to my first data science project where I create and compare graphs, and analyze data from the Lake Michigan-Huron region. If you have any further questions about my website, click the "About" button at the top right. I hope you enjoy it!
+
+
+
+
