@@ -3,4 +3,4 @@ layout: page
 title: About this website
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Hello! My name is Olivia and I am the creator of this website. The purpose of this website is to showcase my progress in learning the Python language, particularly, in the topic of using Python in data science. I decided to practice what I learned in my data science course with actual data from the Lake Michigan-Huron region because I have vacationed there several times and found that the changes in waer levels over the years have been very dramatic and interesting. This website combines both my interest in computer science with my interest in the environment and how I can use data to analyze real world issues. I hope you enjoy it! 
