@@ -9,3 +9,4 @@ Hello! My name is Olivia and I am the creator of this website. The purpose of th
 All data used was retrieved from: https://www.lre.usace.army.mil/Portals/69/docs/GreatLakesInfo/docs/WaterLevels/LTA_GLWL-English_2019.pdf?ver=2020-02-04-152044-737
 
 
+./about_page_picture.jpg
