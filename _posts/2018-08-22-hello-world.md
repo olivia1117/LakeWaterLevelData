@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ####Hello World!
+title: First Post!
 categories:
 - General
 feature_image: ./"https://raw.githubusercontent.com/olivia1117/LakeWaterLevelData/gh-pages/blog_title_image_cropped.jpg"
