@@ -21,7 +21,7 @@ plugins:
 
 # Site settings
 url: 'https://mydomain.com'
-baseurl: 'LakeWaterLevelData'
+baseurl: '/LakeWaterLevelData'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
