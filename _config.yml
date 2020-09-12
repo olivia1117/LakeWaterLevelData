@@ -55,7 +55,7 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "./blog_title_image_cropped.jpg"
+    feature_image: "https://raw.githubusercontent.com/olivia1117/LakeWaterLevelData/gh-pages/blog_title_image_cropped.jpg"
     
 
 
