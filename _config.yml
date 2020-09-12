@@ -54,7 +54,7 @@ collections:
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      ## <span style ="color:white"> Welcome to my blog </span>
     feature_image: "https://raw.githubusercontent.com/olivia1117/LakeWaterLevelData/gh-pages/blog_title_image_cropped.jpg"
     
 
