@@ -50,9 +50,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
     output: true
-    description: "My thoughts and ideas"
     feature_text: |
       ## <span style ="color:white"> Welcome to my blog </span>
     feature_image: "https://raw.githubusercontent.com/olivia1117/LakeWaterLevelData/gh-pages/blog_title_image_cropped.jpg"
